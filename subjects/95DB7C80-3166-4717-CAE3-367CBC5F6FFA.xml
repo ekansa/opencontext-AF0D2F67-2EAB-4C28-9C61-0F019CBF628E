@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="95DB7C80-3166-4717-CAE3-367CBC5F6FFA" ownedBy="AF0D2F67-2EAB-4C28-9C61-0F019CBF628E">
+  <arch:name>
+    <arch:string>44WB0025</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_10_2a8eb5c36</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>52429962-7EF5-4677-CFAC-1184212B3BC0</arch:variableID>
+          <arch:valueID>FA76D598-D679-4BFF-B1F2-BC33C48898CC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/7DFA4033-7122-42A7-DBC9-D01A3213542F">7DFA4033-7122-42A7-DBC9-D01A3213542F</oc:propid>
+          <oc:var_label type="alphanumeric">Jurisdiction(s)</oc:var_label>
+          <oc:show_val>Williamsburg (Ind. City)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>70093626-429B-4B3F-7FA6-971A726E9A94</arch:variableID>
+          <arch:valueID>C3016A1E-DDB4-4E9F-BF8B-698A99946C6C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D69CCE20-E3F1-49E2-D7D0-F5E05F7D8DE8">D69CCE20-E3F1-49E2-D7D0-F5E05F7D8DE8</oc:propid>
+          <oc:var_label type="nominal">Time Period</oc:var_label>
+          <oc:show_val>18th Century (1700 - 1799)</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="70093626-429B-4B3F-7FA6-971A726E9A94" href="http://opencontext.org/vocabularies/dinaa/00001">
+              <oc:vocabulary href="http://opencontext.org/vocabularies/open-context-zooarch/">Open Context Zooarchaeology Annotations</oc:vocabulary>
+              <oc:label>Has period</oc:label>
+              <oc:targetLink localType="property" localID="D69CCE20-E3F1-49E2-D7D0-F5E05F7D8DE8" localURI="http://opencontext.org/properties/D69CCE20-E3F1-49E2-D7D0-F5E05F7D8DE8" href="http://opencontext.org/vocabularies/dinaa/00056">
+                <oc:vocabulary href="http://opencontext.org/vocabularies/dinaa">DINAA Vocabulary</oc:vocabulary>
+                <oc:label>Historic Non-Indian</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>8A17C533-FB58-4E40-1A2F-6D8B2FAE2DDA</arch:variableID>
+          <arch:valueID>583A49B4-7CF4-47BC-0EE3-6C317BE2B278</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C5BAF483-7E0F-46E9-33A1-C88581BA8B12">C5BAF483-7E0F-46E9-33A1-C88581BA8B12</oc:propid>
+          <oc:var_label type="alphanumeric">Organization</oc:var_label>
+          <oc:show_val>Unknown (DSS)</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>90E8AFB9-7022-4690-9D58-CE5659C28A85</arch:variableID>
+          <arch:valueID>F977BAA3-61A9-4B9F-A967-B0A9F7332007</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E61F60EB-D9FE-4740-3435-15846C257B84">E61F60EB-D9FE-4740-3435-15846C257B84</oc:propid>
+          <oc:var_label type="calendric">Survey Date</oc:var_label>
+          <oc:show_val>1983-08-01</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>13262DD3-12C6-4798-74F9-E083DC188D6D</arch:variableID>
+          <arch:valueID>866E3B53-0879-4346-4BE0-820910C784A6</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C0395996-35C8-466A-1F81-CB38B7C48211">C0395996-35C8-466A-1F81-CB38B7C48211</oc:propid>
+          <oc:var_label type="nominal">Survey Event Type</oc:var_label>
+          <oc:show_val>Other</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>FA0C4E5B-BA69-40BB-E7D6-958ED2CCC506</arch:variableID>
+          <arch:valueID>D19E0DAC-A163-4C9B-5175-EDC71D326843</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/1CCFF5AB-17DB-4201-ED29-63966EF091D4">1CCFF5AB-17DB-4201-ED29-63966EF091D4</oc:propid>
+          <oc:var_label type="nominal">Cultural Affiliations</oc:var_label>
+          <oc:show_val>Indeterminate</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>99C87CA5-409D-4BAC-7867-7051F187EF97</arch:variableID>
+          <arch:valueID>706B0D67-EA01-4DD4-74F7-D0FD9371EE73</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/3B71BFCB-F95C-44AF-EE5C-C636D255B949">3B71BFCB-F95C-44AF-EE5C-C636D255B949</oc:propid>
+          <oc:var_label type="nominal">Survey Strategies</oc:var_label>
+          <oc:show_val>Historic Map Projection</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>9A1DA751-7375-43AE-D495-6894D339CB71</arch:variableID>
+          <arch:valueID>EF0E66DD-07CE-4621-F932-5A724CEA8986</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/5F5815F8-BED6-4E0E-30B7-4BD29635FF9C">5F5815F8-BED6-4E0E-30B7-4BD29635FF9C</oc:propid>
+          <oc:var_label type="nominal">Site Class</oc:var_label>
+          <oc:show_val>Terrestrial, open air</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3C3AA9E1-4968-445D-55BF-B908B9C83750</arch:variableID>
+          <arch:valueID>AD27A610-A2BF-4450-3865-D8D7ABDCCBB4</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/CCB766B2-8F3E-40C0-97C7-5BA3ECD50571">CCB766B2-8F3E-40C0-97C7-5BA3ECD50571</oc:propid>
+          <oc:var_label type="boolean">Specimens Collected</oc:var_label>
+          <oc:show_val>False</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/FA7B837E-7012-44CE-B017-71580CFFFF01">
+        <oc:name>Virginia</oc:name>
+        <oc:id>FA7B837E-7012-44CE-B017-71580CFFFF01</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/228A2157-0B61-4417-0DBE-A8428AC2E3D2">
+        <oc:name>Williamsburg</oc:name>
+        <oc:id>228A2157-0B61-4417-0DBE-A8428AC2E3D2</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Virginia Site Files: 44WB0025 (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2014-07-31</dc:date>
+    <dc:subject>Virginia</dc:subject>
+    <dc:subject>archaeology</dc:subject>
+    <dc:subject>cultural resource management</dc:subject>
+    <dc:subject>DINAA</dc:subject>
+    <dc:subject>North America</dc:subject>
+    <dc:subject>site files</dc:subject>
+    <dc:subject>state historical preservation office</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/64DB3726-495A-4C45-1246-DF1F44643C97">Virginia Department of Historic Resources (VA-DHR)</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/95DB7C80-3166-4717-CAE3-367CBC5F6FFA</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/AF0D2F67-2EAB-4C28-9C61-0F019CBF628E">Virginia Site Files</oc:project_name>
+    <oc:pub_date>2014-07-31T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Virginia+Site+Files%3A+44WB0025+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Virginia&amp;rft.subject=archaeology&amp;rft.subject=cultural+resource+management&amp;rft.subject=DINAA&amp;rft.subject=North+America&amp;rft.subject=site+files&amp;rft.subject=state+historical+preservation+office&amp;rft.creator=Virginia+Department+of+Historic+Resources+%28VA-DHR%29&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F95DB7C80-3166-4717-CAE3-367CBC5F6FFA</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>37.230295914041</oc:geo_lat>
+      <oc:geo_long>-76.728515625</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/95DB7C80-3166-4717-CAE3-367CBC5F6FFA" specificity="-11">
+        <oc:note>Approximated by geotile to zoom level 11</oc:note>
+        <oc:source_name>44WB0025</oc:source_name>
+        <oc:source_id>95DB7C80-3166-4717-CAE3-367CBC5F6FFA</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2014-08-01T02:03:50-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2014/08/01 02:03:50</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1700 CE - 1799 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1700</oc:time_start>
+          <oc:time_finish>1799</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/95DB7C80-3166-4717-CAE3-367CBC5F6FFA">
+            <oc:source_name>44WB0025</oc:source_name>
+            <oc:source_id>95DB7C80-3166-4717-CAE3-367CBC5F6FFA</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="oc">
+          <oc:creator_name>Open Context Editors</oc:creator_name>
+          <oc:set_label>Default set</oc:set_label>
+          <oc:set_id>Default set</oc:set_id>
+          <oc:set_date>2014-07-30T12:41:33-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
